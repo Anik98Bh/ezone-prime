@@ -10,4 +10,5 @@ Currently, two official plugins are available:
 
 
 ## for locally run->
-* npm i express
+* npm install axios
+* npm i @tanstack/react-query
